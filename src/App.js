@@ -20,7 +20,7 @@ class App extends React.Component {
 
     return(
       <div className="container">
-        <h1>Api pokemon</h1>
+        <h1>Api pokemon con fetch</h1>
         
 
 
